@@ -1,0 +1,66 @@
+
+# Python virtual environments
+my_env/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django files
+db.sqlite3
+staticfiles/
+
+# Machine-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# React frontend
+node_modules/
+dist/
+
+
+# Secret and environment files
+.env
+.env.*
+!.env.example
+
+# Python environment
+my_env/
+venv/
+env/
+
+# React
+node_modules/
+dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
